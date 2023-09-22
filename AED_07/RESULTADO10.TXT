@@ -1,0 +1,5 @@
+Caracteres ---> Quantidade de digitos <= 5
+"cddsv" ---> 0 digitos <= 5.
+"123876" ---> 3 digitos <= 5.
+"876" ---> 0 digitos <= 5.
+"876" ---> 0 digitos <= 5.

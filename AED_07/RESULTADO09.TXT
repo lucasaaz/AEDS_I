@@ -1,0 +1,5 @@
+Caracteres ---> Caracteres maiusculas
+"ger" ---> 0 letras maiusculas
+"fWRQ" ---> 3 letras maiusculas
+"wew" ---> 0 letras maiusculas
+"R2rqwr" ---> 1 letras maiusculas
